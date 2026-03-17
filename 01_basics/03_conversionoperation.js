@@ -47,3 +47,7 @@ console.log(str15)
 
 
 console.log(100000000000*999999999999999999999999999999999999999)
+console.log("1"+2)
+console.log(2+"1")
+console.log("1"+2+2)
+console.log(2+2+"1")
